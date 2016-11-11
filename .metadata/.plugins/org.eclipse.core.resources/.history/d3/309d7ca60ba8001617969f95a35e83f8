@@ -1,0 +1,5 @@
+package Priority_Queue;
+
+public abstract class AbstractPriorityQueue implements PriorityQueue<K, V> {
+
+}

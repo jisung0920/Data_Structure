@@ -1,0 +1,5 @@
+package Adaptable_Prioity_Queues;
+
+public class HeapAdaptablePriorityQueue {
+
+}
